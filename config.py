@@ -7,4 +7,4 @@ PASSWORD_APP = "tuhs uxpp dwcx mtrg"
 EMAIL_DESTINO = "ramiroyuyes@gmail.com"
 
 # Configuración del intervalo (en segundos)
-INTERVALO_AVISO = 3600  # 3600 segundos = 1 hora
+INTERVALO_AVISO = 1800  # 3600 segundos = 1 hora
